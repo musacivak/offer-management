@@ -5,6 +5,7 @@ Offer Management, Kullanıcıların teklif formu oluşturup görüntüleyebildik
 ## Özellikler
 
 - **Laravel ile geliştirilmiş ve blade template kullanılmıştır.
+- **Css için tailwind framework kullanıldı
 - **PostgreSQL** veritabanı kullanıldı.
 - **Docker ve Docker Compose** ile kolayca çalıştırılabilir.
 - Fiyat hesaplamaları ve yazıya çevrim özelliklerine sahiptir.
